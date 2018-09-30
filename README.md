@@ -15,7 +15,7 @@
   * [Receitas e Despesas Públicas – Portal da Transparência](#receitas-e-despesas-públicas-portal-da-transparência) 
   * [Sanções – Portal da Transparência](#sanções-portal-da-transparência) 
   * [Servidores Civis e Militares do Executivo Federal – Portal da Transparência](#servidores-civis-e-militares-do-executivo-federal-portal-da-transparência) 
-  * [Dirigentes de Empresas – Portal da Transparência](#dirigentesde empresas-portal-da-transparência) 
+  * [Dirigentes de Empresas – Portal da Transparência](#dirigentes-de-empresas-portal-da-transparência) 
   * [Programas Sociais Bolsa Família – Portal da Transparência](#programas-sociais-bolsa-família-portal-da-transparência) 
   * [Cartões de Pagamento – Portal da Transparência](#cartões-de-pagamento-portal-da-transparência) 
   * [Seguro Defeso – Portal da Transparência](#seguro-defeso-portal-da-transparência)
