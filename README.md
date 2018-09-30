@@ -242,7 +242,7 @@
  --- | --|
 *O que é* | Dados da câmara e de outras fontes, incluindo geolocalização das empresas onde parlamentares gastaram, seus parentes, seus assessores e mais coisa que parece bem legal, sistematizado pelo pessoal da Operação Serenata de Amor  |
 *Formato* | csvs compactados como xz  |
-*Url*     | https://github.com/datasciencebr/serenata-toolbox/ , também temos os dados no evento no hd externo chamado nuvem |
+*Url*     | https://github.com/datasciencebr/serenata-toolbox/|
 *Dicas*   |   |
 *Projetos usando* | https://serenatadeamor.org |
 
