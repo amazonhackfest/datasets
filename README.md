@@ -23,6 +23,7 @@
   * [Webservice do e-OUV](#webservice-do-e-ouv)
   * [Relatórios da CGU](#relatórios-da-cgu)
   * [Dados sistematizados sobre parlamentares, seus gastos, parentes, empresas onde eles gastaram e discursos](#dados-sistematizados-sobre-parlamentares-seus-gastos-parentes-empresas-onde-eles-gastaram-e-discursos)
+  * [Projeto Brasil.IO](#projeto-brasi.io)
   * [Contribuindo](#contribuindo)
 
 <!-- tocstop -->
@@ -245,6 +246,17 @@
 *Url*     | https://github.com/datasciencebr/serenata-toolbox/|
 *Dicas*   |   |
 *Projetos usando* | https://serenatadeamor.org |
+
+---
+
+### Projeto Brasil.IO
+?    | ! |
+ --- | --|
+*O que é* | Projeto para tornar acessíveis os dados brasileiros de interesse público e temos como valores principais a transparência e colaboração. |
+*Formato* | API REST |
+*Url*     | https://brasil.io/api/datasets |
+*Dicas*   | Disponibiliza aplicações especiais que cruzam dados de diversos datasets e facilitam o trabalho investigativo. |
+*Projetos usando* |  |
 
 ---
 
