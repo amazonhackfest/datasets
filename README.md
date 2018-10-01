@@ -11,7 +11,7 @@
   * [SICONV: uso de verba do governo federal por municípios e estados (e universidades, institutos, ...) via convênios](#siconv-uso-de-verba-do-governo-federal-por-municípios-e-estados-e-universidades-institutos--via-convênios)
   * [Compras Governamentais](#compras-governamentais)
   * [Nuvem Cívica](#nuvem-cívica)
-  * [Portal da Transparência da Prefeitura de Manaus](#portal-da-transparência-da-prefeitura-de-Manaus) 
+  * [Portal da Transparência da Prefeitura de Manaus](#portal-da-transparência-da-prefeitura-de-manaus) 
   * [Receitas e Despesas Públicas – Portal da Transparência](#receitas-e-despesas-públicas-portal-da-transparência) 
   * [Sanções – Portal da Transparência](#sanções-portal-da-transparência) 
   * [Servidores Civis e Militares do Executivo Federal – Portal da Transparência](#servidores-civis-e-militares-do-executivo-federal-portal-da-transparência) 
@@ -23,7 +23,7 @@
   * [Webservice do e-OUV](#webservice-do-e-ouv)
   * [Relatórios da CGU](#relatórios-da-cgu)
   * [Dados sistematizados sobre parlamentares, seus gastos, parentes, empresas onde eles gastaram e discursos](#dados-sistematizados-sobre-parlamentares-seus-gastos-parentes-empresas-onde-eles-gastaram-e-discursos)
-  * [Projeto Brasil.IO](#projeto-brasil-io)
+  * [Projeto Brasil.IO](#projeto-brasil.io)
   * [Contribuindo](#contribuindo)
 
 <!-- tocstop -->
