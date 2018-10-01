@@ -275,4 +275,4 @@ Adoramos contribuições. Para adicionar um novo dado, copie o template abaixo, 
 *Projetos usando* |  |
 ```
 
-ps: em caso de dúvidas sobre como trabalhar com dados abertos, indicamos o uso do Manual dos Dados Abertos, disponível em www.w3c.br/pub/Materiais/PublicacoesW3C/Manual_Dados_Abertos_WEB.pdf
+ps: em caso de dúvidas sobre como trabalhar com dados abertos, indicamos o uso do [Manual dos Dados Abertos](www.w3c.br/pub/Materiais/PublicacoesW3C/Manual_Dados_Abertos_WEB.pdf).
