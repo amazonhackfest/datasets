@@ -255,7 +255,7 @@
 *O que é* | Projeto para tornar acessíveis os dados brasileiros de interesse público e temos como valores principais a transparência e colaboração. |
 *Formato* | API REST |
 *Url*     | https://brasil.io/api/datasets |
-*Dicas*   | Disponibiliza aplicações especiais que cruzam dados de diversos datasets e facilitam o trabalho investigativo. |
+*Dicas*   | Disponibiliza aplicações especiais que cruzam dados de diversos datasets e facilitam o trabalho investigativo. Mais informações no [github do projeto](https://github.com/turicas/brasil.io) |
 *Projetos usando* |  |
 
 ---
