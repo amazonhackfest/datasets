@@ -63,8 +63,8 @@
 ---
 
 ### Prestação de contas dos partidos de 2007-2017
-?    | !  |
- --- | -- |
+?    | ! |
+ --- | --|
 *O que é* | Íntegra das contas anuais dos diretórios nacionais dos partidos e seus demonstrativos |
 *Formato* | CSV |
 *Url*     | http://www.tse.jus.br/partidos/contas-partidarias/prestacao-de-contas/contas-anuais/prestacao-de-contas-partidarias |
@@ -74,8 +74,8 @@
 ---
 
 ### Repositório de dados eleitorais
-?    | !  |
- --- | -- |
+?    | ! |
+ --- | --|
 *O que é* | O Repositório de dados eleitorais é uma compilação de informações brutas das eleições, desde as de 1945, voltada para pesquisadores, imprensa e pessoas interessadas em analisar os dados de eleitorado, candidaturas, resultados e prestação de contas. |
 *Formato* | CSV |
 *Url*     | http://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais-1/repositorio-de-dados-eleitorais |
@@ -85,8 +85,8 @@
 ---
 
 ### SICONV: uso de verba do governo federal por municípios e estados (e universidades, institutos, ...) via convênios
-?    | !  |
- --- | -- |
+?    | ! |
+ --- | --|
 *O que é* | Boa parte das obras estruturantes e grandes serviços dos municípios e estados é feito com verba federal obtida via convênios. O SICONV tem dados abertos detalhados sobre os convênios celebrados, licitações e pagamentos envolvidos, se a prestação de contas foi aceita ou houve problema, e o cronograma disso tudo. Tem também informação dizendo se a verba do convênio é resultante de uma emenda parlamentar de um deputado federal ou senador. |
 *Formato* | CSVs |
 *Url*     | http://portal.convenios.gov.br/download-de-dados  |
