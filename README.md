@@ -221,7 +221,7 @@
  --- | --|
 *O que é* |Webservice para registro e consulta de manifestações de ouvidoria (denúncias, reclamações, sugestões etc.) direcionadas às ouvidorias do governo federal, incluindo a Ouvidoria-Geral da União da CGU.|
 *Formato* | |
-*Url*     | [Neste link](etc/e-ouv---documentacao-webservices.docx) |
+*Url*     | [Neste link](https://github.com/hackfestcc/dados-hackfestcc/blob/master/etc/e-ouv---documentacao-webservices.docx) |
 *Dicas*   |O documento disponível no link acima explica como acessar os serviços e conectar seu aplicativo ao e-OUV. Por meio do serviço, um aplicativo para detectar irregularidades em obras federais pode, por exemplo, registrar diretamente uma denúncia para a CGU. Importante: o e-OUV permite o registro apenas de manifestações para órgãos do Poder Executivo Federal. Assim, se a obra ou serviço for realizado apenas com recursos estaduais, por exemplo, a denúncia deve ser encaminhada a órgãos estaduais como ouvidoria do Governo do Estado, Tribunal de Contas ou Ministério Público estadual.|
 *Projetos usando* | Reclame Aqui |
 
