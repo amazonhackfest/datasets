@@ -24,6 +24,7 @@
   * [Relatórios da CGU](#relatórios-da-cgu)
   * [Dados sistematizados sobre parlamentares, seus gastos, parentes, empresas onde eles gastaram e discursos](#dados-sistematizados-sobre-parlamentares-seus-gastos-parentes-empresas-onde-eles-gastaram-e-discursos)
   * [Projeto Brasil.IO](#projeto-brasilio)
+  * [Portal ConectaGov](#portal-conectagov)
   * [Contribuindo](#contribuindo)
 
 <!-- tocstop -->
@@ -256,6 +257,17 @@
 *Formato* | API REST |
 *Url*     | https://brasil.io/api/datasets |
 *Dicas*   | Disponibiliza aplicações especiais que cruzam dados de diversos datasets e facilitam o trabalho investigativo. Mais informações no [github do projeto](https://github.com/turicas/brasil.io) |
+*Projetos usando* |  |
+
+---
+
+### Portal ConectaGov
+?    | ! |
+ --- | --|
+*O que é* | Um catálogo recheado de API’s governamentais. |
+*Formato* | API REST |
+*Url*     | https://catalogo.conecta.gov.br/store/ |
+*Dicas*   |  |
 *Projetos usando* |  |
 
 ---
