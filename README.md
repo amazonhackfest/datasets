@@ -278,7 +278,7 @@
  --- | --|
 *O que é* | O Departamento de Informática do Sistema Único de Saúde (DATASUS) surgiu em 1991 com a criação da Fundação Nacional de Saúde (Funasa), pelo Decreto 100 de 16.04.1991, publicado no D.O.U. de 17.04.1991 e retificado conforme publicado no D.O.U. de 19.04.1991. Na época, a Fundação passou a exercer a função de controle e processamento das contas referentes à saúde que antes era da Empresa de Tecnologia e Informações da Previdência Social (DATAPREV). Foi então formalizada a criação e as competências do DATASUS, que tem como responsabilidade prover os órgãos do SUS de sistemas de informação e suporte de informática, necessários ao processo de planejamento, operação e controle. |
 *Formato* | DBC |
-*Url*     | https://catalogo.conecta.gov.br/store/ |
+*Url*     | http://www2.datasus.gov.br/DATASUS/index.php?area=0901 |
 *Dicas*   | Através da instalação da biblioteca read.dbc no R é possível facilitar a análise dos dados disponibilizados pelo DATASUS.  |
 *Projetos usando* |  |
 
