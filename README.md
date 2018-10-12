@@ -300,4 +300,5 @@ Adoramos contribuições. Para adicionar um novo dado, copie o template abaixo, 
 ```
 
 ps1: em caso de dúvidas sobre como trabalhar com dados abertos, indicamos o uso do Manual dos Dados Abertos disponível em www.w3c.br/pub/Materiais/PublicacoesW3C/Manual_Dados_Abertos_WEB.pdf.
+
 ps2: o IP do servidor interno é http://172.25.1.100/
